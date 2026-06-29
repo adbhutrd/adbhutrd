@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="avatar.png" alt="Adbhut Ram Das" width="180" height="180" style="border-radius:50%;border:3px solid #7c3aed">
+</p>
+
 # 👋 Hi, I'm Adbhut Ram Das
 
 **MSc Cybersecurity (Distinction) | Post-Quantum Cryptography Researcher | Security Tooling Engineer**
