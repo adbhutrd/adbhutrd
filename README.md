@@ -4,11 +4,11 @@
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light.png" width="30" /> 
-  Hey, I'm <span style="color: #a855f7">Adbhut Ram Das</span>
+  Adbhut Ram Das
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Calibri&weight=700&size=24&duration=2000&pause=500&color=A855F7&center=true&vCenter=true&width=600&lines=PQC+Researcher;Security+Tool+Architect;MSc+Cybersecurity+%5BDistinction%5D;Quantum-Safe+Advocate" alt="headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Calibri&weight=700&size=22&duration=2000&pause=500&color=A855F7&center=true&vCenter=true&width=600&lines=PQC+Researcher;Security+Tool+Architect;MSc+Cybersecurity+%5BDistinction%5D;Quantum-Safe+Advocate" alt="headline" />
 </h3>
 
 <p align="center">
@@ -19,7 +19,6 @@
 
 <br/>
 
-<!-- Main layout: stats side by side -->
 <table align="center">
   <tr>
     <td>
@@ -36,131 +35,95 @@
   </tr>
 </table>
 
-<br/>
-
-<!-- About section with glass card style -->
-<table align="center">
-  <tr>
-    <td width="65%" valign="top">
-      <h3>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" width="25" /> 
-        About Me
-      </h3>
-      
-      ```yaml
-      name: Adbhut Ram Das
-      location: London, UK
-      education: MSc Cybersecurity (Distinction)
-      university: University of West London
-      thesis: PQC Readiness & Organizational Migration
-      
-      mission: >
-        Help organizations transition to
-        quantum-safe cryptography through
-        practical tools and research.
-      
-      goals:
-        - PhD in Cybersecurity (Netherlands)
-        - Open-source PQC migration toolkit
-        - Bridge research-practice gap
-      ```
-    </td>
-    <td width="35%" valign="top">
-      <h3>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="25" /> 
-        Current Focus
-      </h3>
-      
-      | Area | Progress |
-      |:-----|:--------:|
-      | NIST FIPS 203 (ML-KEM) | ████████░░ 80% |
-      | NIST FIPS 204 (ML-DSA) | ██████░░░░ 60% |
-      | NIST FIPS 205 (SLH-DSA) | █████░░░░░ 50% |
-      | PQC Security Analyzer | ██████████ 100% |
-      | Side-Channel Research | ████░░░░░░ 40% |
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- Featured Projects -->
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" width="30" /> 
-  Featured Projects
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" width="25" /> 
+  All Projects
 </h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3>🔐 PQC Security Analyzer</h3>
-        <p><i>Zero-dependency Python toolkit for quantum-vulnerable code scanning</i></p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Research-8B5CF6?style=flat-square" />
-        </p>
-        <p><a href="https://github.com/adbhutrd/pqc-security-analyzer">View Project →</a></p>
-      </td>
-      <td width="50%">
-        <h3>🎬 Boxroom</h3>
-        <p><i>Self-hosted movie browser with Jellyfin-style UI</i></p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        </p>
-        <p><a href="https://github.com/adbhutrd/boxroom">View Project →</a></p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3>🛡️ SiteGuard</h3>
-        <p><i>One-command website security scanner</i></p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        </p>
-        <p><a href="https://github.com/adbhutrd/siteguard">View Project →</a></p>
-      </td>
-      <td width="50%">
-        <h3>🧠 NeuroSec</h3>
-        <p><i>AI-powered network security anomaly detection</i></p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/AI-8B5CF6?style=flat-square" />
-        </p>
-        <p><a href="https://github.com/adbhutrd/neurosec">View Project →</a></p>
-      </td>
-    </tr>
-  </table>
-</div>
+<br/>
+
+<h3>🔐 PQC & Security</h3>
+
+| Project | Stack | Description |
+|:--------|:------|:------------|
+| [pqc-security-analyzer](https://github.com/adbhutrd/pqc-security-analyzer) | Python | Post-Quantum Crypto Migration Readiness Assessment |
+| [siteguard](https://github.com/adbhutrd/siteguard) | Python | One-command website security scanner |
+| [neurosec](https://github.com/adbhutrd/neurosec) | Python | AI-powered network security anomaly detection |
+| [bugflow](https://github.com/adbhutrd/bugflow) | Python | Bug bounty workflow automation |
+| [cloud-doctor](https://github.com/adbhutrd/cloud-doctor) | Python | Cloud infrastructure diagnostics |
+
+<h3>🎬 Media & Content</h3>
+
+| Project | Stack | Description |
+|:--------|:------|:------------|
+| [boxroom](https://github.com/adbhutrd/boxroom) | Python/Docker | Self-hosted movie browser with Jellyfin-style UI |
+| [youtube-channel](https://github.com/adbhutrd/youtube-channel) | Python | YouTube content production toolkit |
+| Ashvatthama 🔒 | HTML/Python | Content creation & video production pipeline |
+
+<h3>🤖 Automation & Bots</h3>
+
+| Project | Stack | Description |
+|:--------|:------|:------------|
+| [trend-hunter](https://github.com/adbhutrd/trend-hunter) | Python | Self-hosted Shopify trend-finder & arbitrage engine |
+| [bounty-autopilot](https://github.com/adbhutrd/bounty-autopilot) | Python | Bug bounty automation cockpit with AI reports |
+| [gandive-bot](https://github.com/adbhutrd/gandive-bot) | Python | Premium crypto signal Telegram bot |
+| [coupon-hunter](https://github.com/adbhutrd/coupon-hunter) 🔒 | Python | UK discount-code organiser |
+| [dealauto-bot](https://github.com/adbhutrd/dealauto-bot) 🔒 | Python | Personal AI procurement agent |
+
+<h3>🌐 Web Apps</h3>
+
+| Project | Stack | Description |
+|:--------|:------|:------------|
+| [g0dmode](https://github.com/adbhutrd/g0dmode) | Next.js/Python | Multi-model AI chat interface |
+| [expense-tracker](https://github.com/adbhutrd/expense-tracker) | HTML/JS | Free daily expense tracker with charts |
+| [FTMO-challenge-TRacker](https://github.com/adbhutrd/FTMO-challenge-TRacker) | HTML | FTMO challenge progress tracker |
+| [ai-automation-pro](https://github.com/adbhutrd/ai-automation-pro) 🔒 | HTML | Premium AI automation landing page |
+
+<h3>⚙️ Systems & Performance</h3>
+
+| Project | Stack | Description |
+|:--------|:------|:------------|
+| [quantum-perf](https://github.com/adbhutrd/quantum-perf) | Bash | Kali Linux performance optimization toolkit |
+| [quantum_hacking_fyp](https://github.com/adbhutrd/quantum_hacking_fyp) | - | Final Year Project: Quantum hacking research |
+| [investing-etl](https://github.com/adbhutrd/investing-etl) | Python | Stock market data ETL pipeline |
+
+<h3>🗄️ Private Tools</h3>
+
+| Project | Stack | Description |
+|:--------|:------|:------------|
+| [vulnvendor](https://github.com/adbhutrd/vulnvendor) 🔒 | Python | Vulnerability vendor management |
+| [opensource_tools](https://github.com/adbhutrd/opensource_tools) 🔒 | Python | 11 CLI tools across 11 industries |
+| [aisamachar](https://github.com/adbhutrd/aisamachar) 🔒 | JavaScript | AI news aggregation platform |
+| [empire](https://github.com/adbhutrd/empire) 🔒 | Python | Full empire stack: bots, leads, automation |
+| [rumbha](https://github.com/adbhutrd/rumbha) 🔒 | Python | Internal utility toolkit |
 
 <br/>
 
-<!-- Skills -->
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25" /> 
   Tech Stack
 </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0f0f23" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0f0f23" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=0f0f23" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0f0f23" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0f0f23" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0f0f23" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0f0f23" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0f0f23" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0f0f23" />
-  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black&labelColor=0f0f23" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0f0f23" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white&labelColor=0f0f23" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white&labelColor=0f0f23" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0f0f23" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white&labelColor=0f0f23" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=0f0f23" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=0f0f23" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0f0f23" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0f0f23" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black&labelColor=0f0f23" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white&labelColor=0f0f23" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white&labelColor=0f0f23" />
 </p>
 
 <br/>
 
-<!-- Philosophy / Gem -->
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="25" /> 
-  My Philosophy
+  Philosophy
 </h2>
 
 <blockquote align="center">
@@ -168,19 +131,7 @@
   <p>— Peter Drucker</p>
 </blockquote>
 
-<p align="center">
-  I believe the gap between <b>research</b> and <b>practice</b> is where the most impactful security work lives. 
-  My goal is to build tools that make post-quantum cryptography <b>accessible</b>, <b>practical</b>, and <b>automated</b> — 
-  so organizations don't have to wait for tomorrow to be quantum-safe.
-</p>
-
 <br/>
-
-<!-- Connect -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="25" /> 
-  Connect
-</h2>
 
 <p align="center">
   <a href="mailto:adbhutramdas@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0f23" /></a>
@@ -189,12 +140,10 @@
   <a href="https://www.linkedin.com/in/adbhutramdas"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0f23" /></a>
 </p>
 
-<br/>
-
-<!-- Footer -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adbhutrd&style=flat-square&color=a855f7&label=Visitors" />
   <img src="https://img.shields.io/github/followers/adbhutrd?style=flat-square&color=a855f7&label=Followers" />
+  <img src="https://img.shields.io/github/stars/adbhutrd?style=flat-square&color=a855f7&label=Stars" />
 </p>
 
 <p align="center">
@@ -202,7 +151,7 @@
 </p>
 
 <details>
-  <summary><b>📊 GitHub Trophy Case</b></summary>
+  <summary><b>📊 Trophy Case</b></summary>
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=adbhutrd&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" width="100%" />
 </details>
