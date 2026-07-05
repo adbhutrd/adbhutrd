@@ -8,13 +8,13 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Calibri&weight=700&size=22&duration=2000&pause=500&color=A855F7&center=true&vCenter=true&width=600&lines=PQC+Researcher;Security+Tool+Architect;MSc+Cybersecurity+%5BDistinction%5D;Quantum-Safe+Advocate" alt="headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Calibri&weight=700&size=22&duration=2000&pause=500&color=A855F7&center=true&vCenter=true&width=600&lines=PQC+Researcher;Security+Tool+Architect;MSc+Cybersecurity+%5BDistinction%5D;Penetration+Tester;Quantum-Safe+Advocate" alt="headline" />
 </h3>
 
 <p align="center">
   <code>🔬 post-quantum cryptography</code> &bull;
-  <code>🛡️ security automation</code> &bull;
-  <code>⚛️ quantum algorithms</code>
+  <code>🛡️ penetration testing</code> &bull;
+  <code>⚛️ security automation</code>
 </p>
 
 <br/>
@@ -28,110 +28,96 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adbhutrd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0f23&title_color=a855f7&text_color=cbd5e1" width="340" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=adbhutrd&theme=tokyonight&hide_border=true&background=0f0f23&stroke=a855f7&ring=a855f7&fire=06b6d4&currStreakNum=cbd5e1&sideNums=cbd5e1&sideLabels=a855f7&dates=64748b" />
-    </td>
-  </tr>
 </table>
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" width="25" /> 
-  All Projects
-</h2>
+---
 
-<br/>
+<h2 align="center">🔐 Cybersecurity Portfolio</h2>
 
-<h3>🔐 PQC & Security</h3>
+<h3>🛡️ Penetration Testing & Red Team</h3>
 
-| Project | Stack | Description |
-|:--------|:------|:------------|
-| [pqc-security-analyzer](https://github.com/adbhutrd/pqc-security-analyzer) | Python | Post-Quantum Crypto Migration Readiness Assessment |
-| [siteguard](https://github.com/adbhutrd/siteguard) | Python | One-command website security scanner |
-| [neurosec](https://github.com/adbhutrd/neurosec) | Python | AI-powered network security anomaly detection |
-| [bugflow](https://github.com/adbhutrd/bugflow) | Python | Bug bounty workflow automation |
-| [cloud-doctor](https://github.com/adbhutrd/cloud-doctor) | Python | Cloud infrastructure diagnostics |
+| Project | Description | Language |
+|:--------|:------------|:---------|
+| [pentest-framework](https://github.com/adbhutrd/pentest-framework) | AI-assisted penetration testing automation | Python |
+| [reconpro](https://github.com/adbhutrd/reconpro) | Automated reconnaissance toolkit for bug bounty | Python |
+| [webfuzz](https://github.com/adbhutrd/webfuzz) | Web application fuzzer for hidden endpoints | Python |
+| [c2-light](https://github.com/adbhutrd/c2-light) | Lightweight C2 framework for red team ops | Python |
+| [hashsniper](https://github.com/adbhutrd/hashsniper) | Password hash cracking orchestration tool | Python |
 
-<h3>🎬 Media & Content</h3>
+<h3>🔍 Security Analysis & Detection</h3>
 
-| Project | Stack | Description |
-|:--------|:------|:------------|
-| [boxroom](https://github.com/adbhutrd/boxroom) | Python/Docker | Self-hosted movie browser with Jellyfin-style UI |
-| [youtube-channel](https://github.com/adbhutrd/youtube-channel) | Python | YouTube content production toolkit |
-| Ashvatthama 🔒 | HTML/Python | Content creation & video production pipeline |
+| Project | Description | Language |
+|:--------|:------------|:---------|
+| [siteguard](https://github.com/adbhutrd/siteguard) | One-command website security scanner | Python |
+| [netsight](https://github.com/adbhutrd/netsight) | AI-powered network anomaly detection | Python |
+| [neurosec](https://github.com/adbhutrd/neurosec) | ML-based security anomaly detection | Python |
+| [api-secure](https://github.com/adbhutrd/api-secure) | REST/GraphQL API security scanner | Python |
+| [logforge](https://github.com/adbhutrd/logforge) | SIEM log generator for detection testing | Python |
+
+<h3>🔬 Post-Quantum & Applied Crypto</h3>
+
+| Project | Description | Language |
+|:--------|:------------|:---------|
+| [pqc-security-analyzer](https://github.com/adbhutrd/pqc-security-analyzer) | PQC migration readiness assessment | Python |
+| [quantum-tools](https://github.com/adbhutrd/quantum-tools) | Quantum-safe cryptography tools | Rust |
+| [pqc-bridge](https://github.com/adbhutrd/pqc-bridge) | PQC migration bridge toolkit | Go |
+| [crypto-bench](https://github.com/adbhutrd/crypto-bench) | Cryptographic benchmarking suite | C |
+| [proto-guard](https://github.com/adbhutrd/proto-guard) | PQC protocol security analyzer | TypeScript |
+
+<h3>🕵️ OSINT & Threat Intelligence</h3>
+
+| Project | Description | Language |
+|:--------|:------------|:---------|
+| [osint-pro](https://github.com/adbhutrd/osint-pro) | OSINT intelligence gathering framework | Python |
+| [bugflow](https://github.com/adbhutrd/bugflow) | Bug bounty workflow automation | Python |
+| [cloud-doctor](https://github.com/adbhutrd/cloud-doctor) | Cloud security diagnostics | Python |
+| [vulndb-explorer](https://github.com/adbhutrd/vulndb-explorer) | CVE database search & analysis | Python |
 
 <h3>🤖 Automation & Bots</h3>
 
-| Project | Stack | Description |
-|:--------|:------|:------------|
-| [trend-hunter](https://github.com/adbhutrd/trend-hunter) | Python | Self-hosted Shopify trend-finder & arbitrage engine |
-| [bounty-autopilot](https://github.com/adbhutrd/bounty-autopilot) | Python | Bug bounty automation cockpit with AI reports |
-| [gandive-bot](https://github.com/adbhutrd/gandive-bot) | Python | Premium crypto signal Telegram bot |
-| [coupon-hunter](https://github.com/adbhutrd/coupon-hunter) 🔒 | Python | UK discount-code organiser |
-| [dealauto-bot](https://github.com/adbhutrd/dealauto-bot) 🔒 | Python | Personal AI procurement agent |
+| Project | Description | Language |
+|:--------|:------------|:---------|
+| [trend-hunter](https://github.com/adbhutrd/trend-hunter) | Automated trend analysis engine | Python |
+| [bounty-autopilot](https://github.com/adbhutrd/bounty-autopilot) | Bug bounty automation cockpit | Python |
+| [coupon-hunter](https://github.com/adbhutrd/coupon-hunter) 🔒 | Automated discount-code organiser | Python |
 
-<h3>🌐 Web Apps</h3>
+<h3>🌐 Web Applications</h3>
 
-| Project | Stack | Description |
-|:--------|:------|:------------|
-| [g0dmode](https://github.com/adbhutrd/g0dmode) | Next.js/Python | Multi-model AI chat interface |
-| [expense-tracker](https://github.com/adbhutrd/expense-tracker) | HTML/JS | Free daily expense tracker with charts |
-| [FTMO-challenge-TRacker](https://github.com/adbhutrd/FTMO-challenge-TRacker) | HTML | FTMO challenge progress tracker |
-| [ai-automation-pro](https://github.com/adbhutrd/ai-automation-pro) 🔒 | HTML | Premium AI automation landing page |
+| Project | Description | Language |
+|:--------|:------------|:---------|
+| [g0dmode](https://github.com/adbhutrd/g0dmode) | Multi-model AI chat interface | Next.js |
+| [boxroom](https://github.com/adbhutrd/boxroom) | Self-hosted media browser | Python |
+| [expense-tracker](https://github.com/adbhutrd/expense-tracker) | Free daily expense tracker | HTML/JS |
+| [ai-automation-pro](https://github.com/adbhutrd/ai-automation-pro) 🔒 | AI automation landing page | HTML |
 
-<h3>⚙️ Systems & Performance</h3>
+<h3>⚙️ Infrastructure & Tools</h3>
 
-| Project | Stack | Description |
-|:--------|:------|:------------|
-| [quantum-perf](https://github.com/adbhutrd/quantum-perf) | Bash | Kali Linux performance optimization toolkit |
-| [quantum_hacking_fyp](https://github.com/adbhutrd/quantum_hacking_fyp) | - | Final Year Project: Quantum hacking research |
-| [investing-etl](https://github.com/adbhutrd/investing-etl) | Python | Stock market data ETL pipeline |
+| Project | Description | Language |
+|:--------|:------------|:---------|
+| [quantum-perf](https://github.com/adbhutrd/quantum-perf) | Kali Linux performance toolkit | Bash |
+| [investing-etl](https://github.com/adbhutrd/investing-etl) | Financial data ETL pipeline | Python |
+| [opensource_tools](https://github.com/adbhutrd/opensource_tools) 🔒 | Multi-industry CLI toolset | Python |
+| [empire](https://github.com/adbhutrd/empire) 🔒 | Full-stack automation empire | Python |
 
-<h3>🗄️ Private Tools</h3>
+---
 
-| Project | Stack | Description |
-|:--------|:------|:------------|
-| [vulnvendor](https://github.com/adbhutrd/vulnvendor) 🔒 | Python | Vulnerability vendor management |
-| [opensource_tools](https://github.com/adbhutrd/opensource_tools) 🔒 | Python | 11 CLI tools across 11 industries |
-| [aisamachar](https://github.com/adbhutrd/aisamachar) 🔒 | JavaScript | AI news aggregation platform |
-| [empire](https://github.com/adbhutrd/empire) 🔒 | Python | Full empire stack: bots, leads, automation |
-| [rumbha](https://github.com/adbhutrd/rumbha) 🔒 | Python | Internal utility toolkit |
-
-<br/>
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25" /> 
-  Tech Stack
-</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0f0f23" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white&labelColor=0f0f23" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white&labelColor=0f0f23" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0f0f23" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white&labelColor=0f0f23" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white&labelColor=0f0f23" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0f0f23" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white&labelColor=0f0f23" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=0f0f23" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=0f0f23" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0f0f23" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0f0f23" />
-  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black&labelColor=0f0f23" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white&labelColor=0f0f23" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white&labelColor=0f0f23" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white&labelColor=0f0f23" />
 </p>
 
-<br/>
+---
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="25" /> 
-  Philosophy
-</h2>
-
-<blockquote align="center">
-  <p><i>"The best way to predict the future is to create it."</i></p>
-  <p>— Peter Drucker</p>
-</blockquote>
-
-<br/>
+<h2 align="center">🌐 Connect</h2>
 
 <p align="center">
   <a href="mailto:adbhutramdas@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0f23" /></a>
@@ -149,9 +135,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,24,30&height=4&width=100%&section=footer"/>
 </p>
-
-<details>
-  <summary><b>📊 Trophy Case</b></summary>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=adbhutrd&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" width="100%" />
-</details>
