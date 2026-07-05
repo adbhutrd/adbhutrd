@@ -8,13 +8,13 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Calibri&weight=700&size=22&duration=2000&pause=500&color=A855F7&center=true&vCenter=true&width=600&lines=PQC+Researcher;Security+Tool+Architect;MSc+Cybersecurity+%5BDistinction%5D;Penetration+Tester;Quantum-Safe+Advocate" alt="headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Calibri&weight=700&size=22&duration=2000&pause=500&color=A855F7&center=true&vCenter=true&width=600&lines=Security+Engineer;Penetration+Tester;MSc+Cybersecurity+%5BDistinction%5D;Security+Tool+Builder" alt="headline" />
 </h3>
 
 <p align="center">
-  <code>🔬 post-quantum cryptography</code> &bull;
   <code>🛡️ penetration testing</code> &bull;
-  <code>⚛️ security automation</code>
+  <code>🔍 vulnerability research</code> &bull;
+  <code>⚙️ security automation</code>
 </p>
 
 <br/>
@@ -54,16 +54,6 @@
 | [api-secure](https://github.com/adbhutrd/api-secure) | REST/GraphQL API security scanner | Python |
 | [logforge](https://github.com/adbhutrd/logforge) | SIEM log generator for detection testing | Python |
 
-<h3>🔬 Post-Quantum & Applied Crypto</h3>
-
-| Project | Description | Language |
-|:--------|:------------|:---------|
-| [pqc-security-analyzer](https://github.com/adbhutrd/pqc-security-analyzer) | PQC migration readiness assessment | Python |
-| [quantum-tools](https://github.com/adbhutrd/quantum-tools) | Quantum-safe cryptography tools | Rust |
-| [pqc-bridge](https://github.com/adbhutrd/pqc-bridge) | PQC migration bridge toolkit | Go |
-| [crypto-bench](https://github.com/adbhutrd/crypto-bench) | Cryptographic benchmarking suite | C |
-| [proto-guard](https://github.com/adbhutrd/proto-guard) | PQC protocol security analyzer | TypeScript |
-
 <h3>🕵️ OSINT & Threat Intelligence</h3>
 
 | Project | Description | Language |
@@ -79,7 +69,9 @@
 |:--------|:------------|:---------|
 | [trend-hunter](https://github.com/adbhutrd/trend-hunter) | Automated trend analysis engine | Python |
 | [bounty-autopilot](https://github.com/adbhutrd/bounty-autopilot) | Bug bounty automation cockpit | Python |
+| [gandive-bot](https://github.com/adbhutrd/gandive-bot) | Crypto signal Telegram bot | Python |
 | [coupon-hunter](https://github.com/adbhutrd/coupon-hunter) 🔒 | Automated discount-code organiser | Python |
+| [dealauto-bot](https://github.com/adbhutrd/dealauto-bot) 🔒 | Personal AI procurement agent | Python |
 
 <h3>🌐 Web Applications</h3>
 
@@ -108,7 +100,6 @@
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white&labelColor=0f0f23" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white&labelColor=0f0f23" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0f0f23" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white&labelColor=0f0f23" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white&labelColor=0f0f23" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0f0f23" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=0f0f23" />
