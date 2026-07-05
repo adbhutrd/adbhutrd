@@ -1,70 +1,60 @@
+<!-- ADBHUT RAM DAS · PROFILE README -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=220&section=header&text=Adbhut%20Ram%20Das&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" />
+</div>
+
 <p align="center">
-  <img src="avatar.png" alt="Adbhut Ram Das" width="180" height="180" style="border-radius:50%;border:3px solid #7c3aed">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Post-Quantum+Cryptography+Researcher;Security+Tool+Builder;MSc+Cybersecurity+with+Distinction;Building+the+quantum-safe+future" alt="Typing SVG" />
 </p>
 
-# 👋 Hi, I'm Adbhut Ram Das
+---
 
-**MSc Cybersecurity (Distinction) | Post-Quantum Cryptography Researcher | Security Tooling Engineer**
-
-I'm a cybersecurity researcher focused on **post-quantum cryptography migration, quantum-resistant protocol security, and practical security tooling**. I recently completed my MSc in Cybersecurity with Distinction at the University of West London, where my thesis investigated **Mixed Quantum Computing and Cybersecurity: Post-Quantum Cryptography Readiness**.
-
-🎯 **Goal:** PhD position in the Netherlands cybersecurity ecosystem
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adbhutrd&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adbhutrd&theme=github-dark-blue&hide_border=true&background=0d1117" height="180" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adbhutrd&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" height="140" />
+</div>
 
 ---
 
-## 🔬 Research Focus
+## About Me
 
-| Area | What I'm Working On |
-|------|-------------------|
-| **Post-Quantum Cryptography** | Migration readiness tools, NIST PQC standards (FIPS 203-205) |
-| **Quantum Algorithm Security** | Shor's & Grover's algorithm impact on classical crypto |
-| **Side-Channel Analysis** | Timing attacks on PQC implementations (PQ-HINTS methodology) |
-| **Security Automation** | Recon engines, vulnerability reporting, bug bounty tooling |
+I'm a **Post-Quantum Cryptography researcher** and **security tool builder** with an MSc in Cybersecurity (Distinction) from the University of West London. My mission is to help organizations navigate the transition to quantum-safe cryptography through practical tools, research, and automation.
 
-## ⚛️ Featured Project: PQC Security Analyzer
+- 🔭 Currently working on: PQC migration readiness tools & self-hosted security platforms
+- 🌱 Deep diving into: NIST FIPS 203 (ML-KEM), 204 (ML-DSA), 205 (SLH-DSA)
+- 🎯 Goal: PhD in cybersecurity
+- ⚡ Philosophy: "Quantum computers won't break the internet tomorrow - but unprepared organizations will break today."
 
-[![PQC Security Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=adbhutrd&repo=pqc-security-analyzer&theme=dark&bg_color=0d1117&border_color=30363d&icon_color=7c3aed&text_color=8b949e&title_color=7c3aed)](https://github.com/adbhutrd/pqc-security-analyzer)
+## Crown Jewels
 
-A comprehensive research toolkit that:
-- 🔍 **Scans codebases** for classical crypto (RSA, ECC, DH, DSA) — quantum-vulnerable algorithms
-- ⚛️ **Assesses quantum risk** using Shor (1994) & Grover (1996) with NIST PQC severity classification
-- ⏱️ **Tests PQC implementations** for timing side-channel leaks (CV statistical analysis)
-- 📊 **Generates professional HTML/Markdown reports** for research documentation
+<a href="https://github.com/adbhutrd/pqc-security-analyzer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adbhutrd&repo=pqc-security-analyzer&theme=github_dark&hide_border=true&show_owner=true" /></a>
+<a href="https://github.com/adbhutrd/boxroom"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adbhutrd&repo=boxroom&theme=github_dark&hide_border=true&show_owner=true" /></a>
+<a href="https://github.com/adbhutrd/siteguard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adbhutrd&repo=siteguard&theme=github_dark&hide_border=true&show_owner=true" /></a>
+<a href="https://github.com/adbhutrd/neurosec"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adbhutrd&repo=neurosec&theme=github_dark&hide_border=true&show_owner=true" /></a>
 
-**Zero external dependencies.** Pure Python stdlib.
-→ `python3 main.py --self-test`
+## The Adbhut Philosophy
 
----
+> "I don't build tools for the sake of building. I build them because the gap between research and practice is where real security problems live - and die."
 
-## 🛠️ Other Projects
+| Pillar | Focus |
+|:------|:------|
+| 🔐 PQC Research | Post-quantum cryptography migration, NIST standards |
+| 🛠️ Practical Tools | Self-hosted security platforms, automation |
+| 🧪 Testing | Anomaly detection, fuzzing, CI/CD security |
 
-| Project | Description |
-|---------|-------------|
-| [🔍 BugFlow](https://github.com/adbhutrd/bugflow) | Multi-phase bug bounty automation pipeline — recon through reporting |
-| [🛡️ SiteGuard](https://github.com/adbhutrd/siteguard) | Automated security scanner with CI/CD integration |
-| [💰 FTMO Tracker](https://github.com/adbhutrd/FTMO-challenge-TRacker) | Real-time FTMO challenge tracking with cloud sync |
-| [🌐 Expense Tracker](https://github.com/adbhutrd/expense-tracker) | Daily expense tracker web app |
+## Arsenal
 
----
+Python | Go | Bash | Docker | PostgreSQL | Git | Linux | Streamlit | DuckDB | FastAPI | Next.js | Ollama
 
-## 🎓 Academic Background
+## Connect
 
-- **MSc Cybersecurity (Distinction)** — University of West London, Dec 2025
-- **Thesis:** Mixed Quantum Computing and Cybersecurity: Post-Quantum Cryptography Readiness
-  - NIST PQC standardization analysis (FIPS 203-205)
-  - Lattice-based cryptography implementation evaluation
-  - Organizational PQC migration strategy framework
-- **BSc Computer Science** — Related undergraduate background
+- Email: adbhutramdas@gmail.com
+- GitHub: github.com/adbhutrd
+- Medium: @anonwiz8
 
----
+<img src="https://komarev.com/ghpvc/?username=adbhutrd&style=for-the-badge&color=58a6ff&label=PROFILE+VISITS" />
 
-## 📫 Connect
-
-- ✉️ adbhutramdas@gmail.com
-- 💻 GitHub: [adbhutrd](https://github.com/adbhutrd)
-- 📝 Medium: [@anonwiz8](https://medium.com/@anonwiz8)
-- 📍 London, UK → 🇳🇱 Targeting Netherlands
-
----
-
-*"The only way to deal with a quantum threat is to prepare for it before it arrives."*
+<img src="https://github-profile-trophy.vercel.app/?username=adbhutrd&theme=onedark&no-frame=true&no-bg=true&row=2&column=4" width="100%" />
